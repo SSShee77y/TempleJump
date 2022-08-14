@@ -5,4 +5,4 @@ The original files of this Java project were accidentally deleted. So the code h
 
 <img src=https://user-images.githubusercontent.com/46356943/184517414-fbfc0bbd-73c8-40d5-bdf6-495856824936.png width=600px>
 
-Clone of *Jump Knight*. Background textures from *Terraria* 
+Player texture based off of *Jump Knight*. Background textures from *Terraria* 
